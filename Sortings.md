@@ -1,4 +1,4 @@
-# Problems on Prefix_Sums
+# Problems on Sorting
 
 <details>
 <summary> LeetCode </summary>
